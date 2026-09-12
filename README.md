@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/karthikeya5258044/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya5258044/dsa/tree/master/0347-top-k-frequent-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3875-construct-uniform-parity-array-i](https://github.com/karthikeya5258044/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/karthikeya5258044/dsa/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/karthikeya5258044/dsa/tree/master/0347-top-k-frequent-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/karthikeya5258044/dsa/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
