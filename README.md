@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/karthikeya5258044/dsa/tree/master/0836-rectangle-overlap) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikeya5258044/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/karthikeya5258044/dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/karthikeya5258044/dsa/tree/master/3871-count-commas-in-range-ii) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/karthikeya5258044/dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
