@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikeya5258044/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0836-rectangle-overlap](https://github.com/karthikeya5258044/dsa/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karthikeya5258044/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikeya5258044/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikeya5258044/dsa/tree/master/0096-unique-binary-search-trees) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/karthikeya5258044/dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karthikeya5258044/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/karthikeya5258044/dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -102,13 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikeya5258044/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikeya5258044/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikeya5258044/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikeya5258044/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikeya5258044/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikeya5258044/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
